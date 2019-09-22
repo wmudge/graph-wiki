@@ -1,5 +1,11 @@
 = Notes
 
+== References
+
+- https://medium.com/swlh/bfs-and-dfs-in-code-ba3f01c161569[Breadth First Search and Depth First Search in Code]
+- http://jmespath.org/tutorial.html[JMESPath Tutorial]
+
+
 == Test Graphs
 
 .Single Graph
