@@ -1,0 +1,19 @@
+{
+  "name": "hello-wiki",
+  "version": "1.0.0",
+  "description": "Simple single-page wiki engine with graph-based links and tagging",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Webster Mudge",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/node": "^7.6.1",
+    "@babel/preset-env": "^7.6.0"
+  },
+  "dependencies": {
+    "jmespath": "file:../jmespath.js"
+  }
+}
