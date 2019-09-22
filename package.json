@@ -15,5 +15,6 @@
   },
   "dependencies": {
     "jmespath": "git@github.com:wmudge/jmespath.js.git#functions"
-  }
+  },
+  "repository": {}
 }
